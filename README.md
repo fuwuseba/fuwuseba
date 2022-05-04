@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fegor Uwuseba
-- 👀 I’m interested in hardware, more specifically electrical engineering and digital signal processing.
+- 👀 I’m interested in hardware, more specifically filter/circuit design, embedded systems/firmware and FPGA/ASIC design.
 - 📫 You can reach me at fu262@nyu.edu
 
 <!---
